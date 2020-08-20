@@ -1,5 +1,20 @@
 public class Palindrome {
 
+    public static boolean containsAlphabet(String stringParameter) {
+
+        //Convert to lower case to ignore case
+        String lowerCaseString = stringParameter.toLowerCase();
+
+        //Use char in loop to go through the alphabet using String.contains()
+        for (char alphaChar = 'a';alphaChar <= 'z';alphaChar++) {
+            if (lowerCaseString.contains(Character.toString(alphaChar))) {
+            } else {
+                return false;
+            }
+        }
+        return true;
+    }
+
     public static String[] palindromeSentence(String sentence) {
         //Getting an array of each word
         String[] words = sentence.split(" ");

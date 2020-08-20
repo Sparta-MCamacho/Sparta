@@ -4,9 +4,11 @@ public class Main {
 
         PalindromeTester.testPalindromeChecker();
 
-        System.out.println("-------------------------");
 
         PalindromeTester.testPalindromeSentence();
+
+
+        PalindromeTester.testContainsAlphabet();
 
     }
 
