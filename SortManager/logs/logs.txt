@@ -1,0 +1,89 @@
+2020-08-28 15:24:56,854 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:25:03,274 INFO c.s.m.I.MenuController [main] User has entered menu option 1 with an array length of 9
+2020-08-28 15:25:03,282 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 15:25:03,282 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:25:03,282 INFO c.s.m.I.MenuController [main] User has exited the application via the menu
+2020-08-28 15:27:47,506 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:27:53,009 INFO c.s.m.I.MenuController [main] User has entered menu option 1 with an array length of 9
+2020-08-28 15:27:53,018 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 15:27:53,018 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:28:00,873 INFO c.s.m.I.MenuController [main] User has entered menu option 4 with an array length of 9
+2020-08-28 15:28:00,876 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 15:28:00,876 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:28:00,877 WARN c.s.m.I.MenuController [main] User entered a response which could not be read as an int (Exception has been handled)
+2020-08-28 15:28:00,878 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:28:05,243 WARN c.s.m.I.MenuController [main] User entered a array length which could not be read as an int (Exception has been handled)
+2020-08-28 15:28:05,243 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:28:12,196 WARN c.s.m.I.MenuController [main] User menu option not available
+2020-08-28 15:28:12,197 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:28:12,197 WARN c.s.m.I.MenuController [main] User menu option not available
+2020-08-28 15:28:12,197 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:28:33,136 WARN c.s.m.I.MenuController [main] User entered an array length less than or equal to zero
+2020-08-28 15:28:33,136 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:28:41,630 WARN c.s.m.I.MenuController [main] User entered a array length which could not be read as an int (Exception has been handled)
+2020-08-28 15:28:41,630 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:28:49,375 INFO c.s.m.I.MenuController [main] User has entered menu option 8 with an array length of 14
+2020-08-28 15:28:49,377 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 15:28:49,377 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:29:54,601 INFO c.s.m.I.MenuController [main] User has entered menu option 6 with an array length of 50000
+2020-08-28 15:29:54,620 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 15:29:54,620 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:30:00,505 INFO c.s.m.I.MenuController [main] User has exited the application via the menu
+2020-08-28 15:48:50,429 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:49:04,594 INFO c.s.m.I.MenuController [main] User has entered menu option 1 with an array length of 10
+2020-08-28 15:49:04,602 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 15:49:04,602 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:49:04,603 INFO c.s.m.I.MenuController [main] User has entered menu option 2 with an array length of 10
+2020-08-28 15:49:04,604 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 15:49:04,604 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:49:04,605 INFO c.s.m.I.MenuController [main] User has entered menu option 3 with an array length of 10
+2020-08-28 15:49:04,605 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 15:49:04,606 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:49:04,606 INFO c.s.m.I.MenuController [main] User has entered menu option 4 with an array length of 10
+2020-08-28 15:49:04,607 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 15:49:04,607 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:49:04,607 INFO c.s.m.I.MenuController [main] User has entered menu option 5 with an array length of 10
+2020-08-28 15:49:04,608 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 15:49:04,608 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:49:04,609 INFO c.s.m.I.MenuController [main] User has entered menu option 6 with an array length of 10
+2020-08-28 15:49:04,610 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 15:49:04,610 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:49:04,610 INFO c.s.m.I.MenuController [main] User has entered menu option 7 with an array length of 10
+2020-08-28 15:49:04,611 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 15:49:04,611 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:50:32,300 INFO c.s.m.I.MenuController [main] User has exited the application via the menu
+2020-08-28 15:54:07,178 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:54:09,006 INFO c.s.m.I.MenuController [main] User has entered menu option 1 with an array length of 10
+2020-08-28 15:54:09,014 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 15:54:09,015 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:54:14,767 INFO c.s.m.I.MenuController [main] User has entered menu option 2 with an array length of 10
+2020-08-28 15:54:14,769 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 15:54:14,769 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:54:21,161 INFO c.s.m.I.MenuController [main] User has entered menu option 8 with an array length of 10000
+2020-08-28 15:54:21,448 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 15:54:21,448 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:59:31,323 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 15:59:38,158 INFO c.s.m.I.MenuController [main] User has entered menu option 8 with an array length of 30
+2020-08-28 15:59:38,167 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 15:59:38,167 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 16:00:30,661 INFO c.s.m.I.MenuController [main] User has exited the application via the menu
+2020-08-28 16:00:35,685 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 16:00:51,730 INFO c.s.m.I.MenuController [main] User has entered menu option 8 with an array length of 20
+2020-08-28 16:00:51,737 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 16:00:51,737 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 16:01:04,731 INFO c.s.m.I.MenuController [main] User has entered menu option 8 with an array length of 10000000
+2020-08-28 16:01:05,583 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 16:01:05,584 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 16:01:30,728 INFO c.s.m.I.MenuController [main] User has entered menu option 8 with an array length of 100000000
+2020-08-28 16:01:39,038 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 16:01:39,039 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 16:02:15,480 INFO c.s.m.I.MenuController [main] User has exited the application via the menu
+2020-08-28 16:02:54,468 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 16:03:03,363 INFO c.s.m.I.MenuController [main] User has entered menu option 6 with an array length of 10000
+2020-08-28 16:03:03,391 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 16:03:03,391 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 16:03:29,601 INFO c.s.m.I.MenuController [main] User has exited the application via the menu
+2020-08-28 17:21:54,755 INFO c.s.m.I.MenuController [main] Menu has restarted
+2020-08-28 17:21:59,604 INFO c.s.m.I.MenuController [main] User has entered menu option 7 with an array length of 10
+2020-08-28 17:21:59,611 INFO c.s.m.I.MenuController [main] Sorters have run successfully
+2020-08-28 17:21:59,611 INFO c.s.m.I.MenuController [main] Menu has restarted
