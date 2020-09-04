@@ -1,0 +1,534 @@
+2020-09-03 16:11:23,580 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 16:11:23,583 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/MainEmployees.csv
+2020-09-03 16:11:24,082 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 16:11:24,084 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 1.7139 milliseconds
+2020-09-03 16:11:24,127 INFO c.s.m.ComponentController [main] Migrated from Java to SQL in: 42.7494 milliseconds
+2020-09-03 16:11:24,128 INFO c.s.m.ComponentController [main] Size of invalid employees: 19
+2020-09-03 16:11:24,135 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote all records which were unable to be migrated
+2020-09-03 16:11:24,136 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-03 16:15:52,460 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 16:21:30,279 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 16:21:30,284 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-03 16:21:30,944 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 16:21:31,010 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 65.0718 milliseconds
+2020-09-03 16:21:58,944 INFO c.s.m.ComponentController [main] Migrated from Java to SQL in: 27932.6614 milliseconds
+2020-09-03 16:21:58,944 INFO c.s.m.ComponentController [main] Size of invalid employees: 76
+2020-09-03 16:21:58,951 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote all records which were unable to be migrated
+2020-09-03 16:21:58,952 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-03 16:23:47,551 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 16:23:47,555 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-03 16:23:48,090 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 16:23:48,168 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 76.3939 milliseconds
+2020-09-03 16:23:50,051 INFO c.s.m.ComponentController [main] Migrated from Java to SQL in: 1882.876 milliseconds
+2020-09-03 16:23:50,051 INFO c.s.m.ComponentController [main] Size of invalid employees: 10000
+2020-09-03 16:23:50,090 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote all records which were unable to be migrated
+2020-09-03 16:23:50,091 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-03 17:28:57,814 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 17:28:57,818 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-03 17:28:58,349 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 17:28:58,407 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 57.1432 milliseconds
+2020-09-03 17:29:28,851 INFO c.s.m.ComponentController [main] Migrated from Java to SQL in: 30443.538 milliseconds
+2020-09-03 17:29:28,851 INFO c.s.m.ComponentController [main] Size of invalid employees: 57
+2020-09-03 17:29:28,859 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote all records which were unable to be migrated
+2020-09-03 17:29:28,859 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-03 17:55:38,645 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 17:55:38,657 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-03 17:55:39,265 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 17:55:39,323 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 53.8696 milliseconds
+2020-09-03 17:56:22,222 INFO c.s.m.ComponentController [main] Migrated from Java to SQL in: 42898.4514 milliseconds
+2020-09-03 17:56:22,222 INFO c.s.m.ComponentController [main] Size of invalid employees: 99014
+2020-09-03 17:56:22,354 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote all records which were unable to be migrated
+2020-09-03 17:56:22,355 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-03 17:58:38,549 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 17:58:38,554 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-03 17:58:39,140 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 17:58:39,215 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 73.8303 milliseconds
+2020-09-03 17:58:39,614 INFO c.s.m.ComponentController [main] Migrated from Java to SQL in: 397.9082 milliseconds
+2020-09-03 17:58:39,615 INFO c.s.m.ComponentController [main] Size of invalid employees: 0
+2020-09-03 17:58:39,615 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote all records which were unable to be migrated
+2020-09-03 17:58:39,615 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-03 17:59:46,823 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 17:59:46,828 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/MainEmployees.csv
+2020-09-03 17:59:47,370 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 17:59:47,374 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 2.1082 milliseconds
+2020-09-03 17:59:47,643 INFO c.s.m.ComponentController [main] Migrated from Java to SQL in: 267.5374 milliseconds
+2020-09-03 17:59:47,643 INFO c.s.m.ComponentController [main] Size of invalid employees: 8
+2020-09-03 17:59:47,658 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote all records which were unable to be migrated
+2020-09-03 17:59:47,660 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-03 18:01:08,774 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 18:01:08,780 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/MainEmployees.csv
+2020-09-03 18:01:09,371 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 18:01:09,375 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 3.1857 milliseconds
+2020-09-03 18:01:09,714 INFO c.s.m.ComponentController [main] Migrated from Java to SQL in: 338.0003 milliseconds
+2020-09-03 18:01:09,714 INFO c.s.m.ComponentController [main] Size of invalid employees: 18
+2020-09-03 18:01:09,723 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote all records which were unable to be migrated
+2020-09-03 18:01:09,724 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-03 18:01:56,504 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 18:01:56,509 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/MainEmployees.csv
+2020-09-03 18:01:57,172 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 18:01:57,174 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 1.8299 milliseconds
+2020-09-03 18:01:57,536 INFO c.s.m.ComponentController [main] Migrated from Java to SQL in: 361.7344 milliseconds
+2020-09-03 18:01:57,537 INFO c.s.m.ComponentController [main] Size of invalid employees: 0
+2020-09-03 18:01:57,537 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote all records which were unable to be migrated
+2020-09-03 18:01:57,537 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-03 18:03:04,993 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 18:03:04,997 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/MainEmployees.csv
+2020-09-03 18:03:05,654 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 18:03:05,657 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 1.8295 milliseconds
+2020-09-03 18:03:05,997 INFO c.s.m.ComponentController [main] Migrated from Java to SQL in: 340.375 milliseconds
+2020-09-03 18:03:05,997 INFO c.s.m.ComponentController [main] Size of invalid employees: 17
+2020-09-03 18:03:06,007 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote all records which were unable to be migrated
+2020-09-03 18:03:06,007 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-03 18:08:46,879 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 18:08:46,884 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-03 18:08:47,388 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 18:08:47,443 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 52.2243 milliseconds
+2020-09-03 18:08:47,444 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-03 18:08:48,425 INFO c.s.m.ComponentController [main] Migrated 2523 records from Java to SQL in: 632.4161 milliseconds
+2020-09-03 18:08:48,428 INFO c.s.m.ComponentController [main] Number of invalid records are: 6053
+2020-09-03 18:08:48,890 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote9982records which were unable to be migrated
+2020-09-03 18:08:48,891 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-03 18:09:16,803 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 18:09:16,808 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-03 18:09:17,631 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 18:09:17,706 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 75.0988 milliseconds
+2020-09-03 18:09:17,707 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-03 18:09:18,212 INFO c.s.m.ComponentController [main] Migrated 770 records from Java to SQL in: 502.1784 milliseconds
+2020-09-03 18:09:18,212 INFO c.s.m.ComponentController [main] Number of invalid records are: 771
+2020-09-03 18:09:18,229 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote788records which were unable to be migrated
+2020-09-03 18:09:18,229 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-03 18:15:46,370 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 18:15:46,378 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-03 18:15:46,941 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 18:15:46,995 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 48.9074 milliseconds
+2020-09-03 18:15:46,995 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-03 18:15:53,891 INFO c.s.m.ComponentController [main] Migrated 57 records from Java to SQL in: 6891.5139 milliseconds
+2020-09-03 18:15:53,891 INFO c.s.m.ComponentController [main] Number of invalid records are: 57
+2020-09-03 18:15:53,911 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote57records which were unable to be migrated
+2020-09-03 18:15:53,912 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-03 18:19:39,047 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 18:19:39,052 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-03 18:19:39,612 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 18:19:39,690 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 75.9614 milliseconds
+2020-09-03 18:19:39,691 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-03 18:19:46,990 INFO c.s.m.ComponentController [main] Migrated 33 records from Java to SQL in: 7296.7765 milliseconds
+2020-09-03 18:19:46,990 INFO c.s.m.ComponentController [main] Number of invalid records are: 56
+2020-09-03 18:19:46,999 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 56 records which were unable to be migrated
+2020-09-03 18:19:47,000 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-03 18:22:36,508 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 18:22:36,513 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-03 18:22:37,096 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 18:22:37,145 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 47.3927 milliseconds
+2020-09-03 18:22:37,145 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-03 18:22:43,928 INFO c.s.m.ComponentController [main] Migrated 23 records from Java to SQL in: 6779.4953 milliseconds
+2020-09-03 18:22:43,929 INFO c.s.m.ComponentController [main] Number of invalid records are: 57
+2020-09-03 18:22:43,940 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 57 records which were unable to be migrated
+2020-09-03 18:22:43,941 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-03 18:25:52,569 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 18:25:52,587 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-03 18:25:53,131 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 18:25:53,182 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 49.5643 milliseconds
+2020-09-03 18:25:53,182 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-03 18:26:23,277 INFO c.s.m.ComponentController [main] Migrated 8 records from Java to SQL in: 30092.2647 milliseconds
+2020-09-03 18:26:23,277 INFO c.s.m.ComponentController [main] Number of invalid records are: 57
+2020-09-03 18:26:23,284 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 57 records which were unable to be migrated
+2020-09-03 18:26:23,285 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-03 18:29:07,525 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 18:29:07,530 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-03 18:29:08,100 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 18:29:08,152 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 49.0691 milliseconds
+2020-09-03 18:29:08,152 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-03 18:29:09,676 INFO c.s.m.ComponentController [main] Migrated 0 records from Java to SQL in: 1521.1608 milliseconds
+2020-09-03 18:29:09,677 INFO c.s.m.ComponentController [main] Number of invalid records are: 9990
+2020-09-03 18:29:09,747 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 9990 records which were unable to be migrated
+2020-09-03 18:29:09,747 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-03 18:37:15,135 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 18:37:15,140 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-03 18:37:15,869 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 18:37:15,960 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 85.7351 milliseconds
+2020-09-03 18:37:15,961 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-03 18:37:22,946 INFO c.s.m.ComponentController [main] Migrated 9796 records from Java to SQL in: 6982.7189 milliseconds
+2020-09-03 18:37:22,947 INFO c.s.m.ComponentController [main] Number of invalid records are: 57
+2020-09-03 18:37:22,955 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 57 records which were unable to be migrated
+2020-09-03 18:37:22,956 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-03 18:39:30,559 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 18:39:30,565 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-03 18:39:31,121 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 18:39:31,178 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 54.0552 milliseconds
+2020-09-03 18:39:31,179 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-03 18:39:38,458 INFO c.s.m.ComponentController [main] Migrated 9684 records from Java to SQL in: 7276.1214 milliseconds
+2020-09-03 18:39:38,458 INFO c.s.m.ComponentController [main] Number of invalid records are: 56
+2020-09-03 18:39:38,468 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 56 records which were unable to be migrated
+2020-09-03 18:39:38,469 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-03 18:41:58,105 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 18:41:58,109 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-03 18:41:58,729 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 18:41:58,807 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 74.4239 milliseconds
+2020-09-03 18:41:58,808 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-03 18:42:09,155 INFO c.s.m.ComponentController [main] Migrated 0 records from Java to SQL in: 10342.0488 milliseconds
+2020-09-03 18:42:09,155 INFO c.s.m.ComponentController [main] Number of invalid records are: 9990
+2020-09-03 18:42:09,231 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 9990 records which were unable to be migrated
+2020-09-03 18:42:09,239 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-03 18:44:13,931 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-03 18:44:13,935 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-03 18:44:14,537 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-03 18:44:14,595 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 54.9483 milliseconds
+2020-09-03 18:44:14,595 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-03 18:44:24,864 INFO c.s.m.ComponentController [main] Migrated 9711 records from Java to SQL in: 10266.0887 milliseconds
+2020-09-03 18:44:24,865 INFO c.s.m.ComponentController [main] Number of invalid records are: 57
+2020-09-03 18:44:24,873 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 57 records which were unable to be migrated
+2020-09-03 18:44:24,873 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 11:49:16,196 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 11:49:16,217 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 11:49:16,960 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 11:49:17,018 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 56.7022 milliseconds
+2020-09-04 11:49:17,019 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 11:49:27,332 INFO c.s.m.ComponentController [main] Migrated 9729 records from Java to SQL in: 10310.702 milliseconds
+2020-09-04 11:49:27,333 INFO c.s.m.ComponentController [main] Number of invalid records are: 56
+2020-09-04 11:49:27,342 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 56 records which were unable to be migrated
+2020-09-04 11:49:27,343 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 11:49:35,474 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 11:49:35,481 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 11:49:36,025 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 11:49:36,072 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 44.5102 milliseconds
+2020-09-04 11:49:36,073 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 11:49:46,530 INFO c.s.m.ComponentController [main] Migrated 0 records from Java to SQL in: 10454.7831 milliseconds
+2020-09-04 11:49:46,531 INFO c.s.m.ComponentController [main] Number of invalid records are: 9995
+2020-09-04 11:49:46,570 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 9995 records which were unable to be migrated
+2020-09-04 11:49:46,571 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 11:54:41,243 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 11:54:41,247 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 11:54:41,781 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 11:54:41,834 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 52.5737 milliseconds
+2020-09-04 11:54:41,835 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 11:54:49,004 INFO c.s.m.ComponentController [main] Migrated 9803 records from Java to SQL in: 7164.0052 milliseconds
+2020-09-04 11:54:49,004 INFO c.s.m.ComponentController [main] Number of invalid records are: 56
+2020-09-04 11:54:49,011 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 56 records which were unable to be migrated
+2020-09-04 11:54:49,012 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 12:00:12,558 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 12:00:12,571 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 12:00:13,117 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 12:00:13,170 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 50.9063 milliseconds
+2020-09-04 12:00:13,170 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 12:00:19,667 INFO c.s.m.ComponentController [main] Migrated 9395 records from Java to SQL in: 6495.2068 milliseconds
+2020-09-04 12:00:19,667 INFO c.s.m.ComponentController [main] Number of invalid records are: 57
+2020-09-04 12:00:19,675 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 57 records which were unable to be migrated
+2020-09-04 12:00:19,675 INFO c.s.m.ComponentController [main] Valid employee count from increment: 9395
+2020-09-04 12:00:19,675 INFO c.s.m.ComponentController [main] Valid employee count from arrayList: 57
+2020-09-04 12:00:19,675 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 12:03:29,469 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 12:03:29,482 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 12:03:30,109 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 12:03:30,172 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 56.4221 milliseconds
+2020-09-04 12:03:30,173 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 12:03:36,946 INFO c.s.m.ComponentController [main] Migrated 9360 records from Java to SQL in: 6769.5162 milliseconds
+2020-09-04 12:03:36,946 INFO c.s.m.ComponentController [main] Number of invalid records are: 56
+2020-09-04 12:03:36,954 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 56 records which were unable to be migrated
+2020-09-04 12:03:36,954 INFO c.s.m.ComponentController [main] Valid employee count from increment: 9360
+2020-09-04 12:03:36,954 INFO c.s.m.ComponentController [main] Valid employee count from arrayList: 9216
+2020-09-04 12:03:36,955 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 12:18:51,171 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 12:18:51,201 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 12:18:51,765 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 12:18:51,830 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 62.4992 milliseconds
+2020-09-04 12:18:51,830 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 12:18:59,431 INFO c.s.m.ComponentController [main] Migrated 9943 records from Java to SQL in: 7594.9056 milliseconds
+2020-09-04 12:18:59,432 INFO c.s.m.ComponentController [main] Number of invalid records are: 57
+2020-09-04 12:18:59,440 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 57 records which were unable to be migrated
+2020-09-04 12:18:59,440 INFO c.s.m.ComponentController [main] Valid employee count from increment: 9943
+2020-09-04 12:18:59,440 INFO c.s.m.ComponentController [main] Valid employee count from arrayList: 9943
+2020-09-04 12:18:59,441 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 12:23:35,647 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 12:23:35,651 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 12:23:36,456 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 12:23:36,547 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 88.2067 milliseconds
+2020-09-04 12:23:36,548 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 12:23:36,548 INFO c.s.m.ComponentController [main] Performing migration process using 14 threads
+2020-09-04 12:23:43,703 INFO c.s.m.ComponentController [main] Migrated 9937 records from Java to SQL in: 7152.2305 milliseconds
+2020-09-04 12:23:43,703 INFO c.s.m.ComponentController [main] Number of invalid records are: 57
+2020-09-04 12:23:43,711 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 57 records which were unable to be migrated
+2020-09-04 12:23:43,711 INFO c.s.m.ComponentController [main] Valid employee count from increment: 9939
+2020-09-04 12:23:43,711 INFO c.s.m.ComponentController [main] Valid employee count from arrayList: 9939
+2020-09-04 12:23:43,712 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 12:26:00,966 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 12:26:00,972 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 12:26:01,533 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 12:26:01,604 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 68.7602 milliseconds
+2020-09-04 12:26:01,604 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 12:26:01,605 INFO c.s.m.ComponentController [main] Performing migration process using 14 threads
+2020-09-04 12:26:07,427 INFO c.s.m.ComponentController [main] Migrated 9943 records from Java to SQL in: 5820.1389 milliseconds
+2020-09-04 12:26:07,427 INFO c.s.m.ComponentController [main] Number of invalid records are: 57
+2020-09-04 12:26:07,442 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 57 records which were unable to be migrated
+2020-09-04 12:26:07,442 INFO c.s.m.ComponentController [main] Valid employee count from increment: 9943
+2020-09-04 12:26:07,442 INFO c.s.m.ComponentController [main] Valid employee count from arrayList: 9943
+2020-09-04 12:26:07,445 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 13:29:32,160 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 13:29:32,166 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 13:29:32,762 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 13:29:32,825 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 59.2787 milliseconds
+2020-09-04 13:29:32,826 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 13:29:32,826 INFO c.s.m.ComponentController [main] Performing migration process using 14 threads
+2020-09-04 13:29:38,489 INFO c.s.m.ComponentController [main] Migrated 9943 records from Java to SQL in: 5660.9819 milliseconds
+2020-09-04 13:29:38,490 INFO c.s.m.ComponentController [main] Number of invalid records are: 57
+2020-09-04 13:29:38,498 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 57 records which were unable to be migrated
+2020-09-04 13:29:38,498 INFO c.s.m.ComponentController [main] Valid employee count from increment: 9943
+2020-09-04 13:29:38,498 INFO c.s.m.ComponentController [main] Valid employee count from arrayList: 9943
+2020-09-04 13:29:38,499 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 13:38:17,439 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 13:38:17,444 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 13:38:17,984 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 13:38:18,046 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 58.3787 milliseconds
+2020-09-04 13:38:18,046 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 13:38:18,046 INFO c.s.m.ComponentController [main] Performing migration process using 3 threads
+2020-09-04 13:38:34,958 INFO c.s.m.ComponentController [main] Migrated 9943 records from Java to SQL in: 16909.5314 milliseconds
+2020-09-04 13:38:34,958 INFO c.s.m.ComponentController [main] Number of invalid records are: 57
+2020-09-04 13:38:34,966 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 57 records which were unable to be migrated
+2020-09-04 13:38:34,966 INFO c.s.m.ComponentController [main] Valid employee count from increment: 9943
+2020-09-04 13:38:34,966 INFO c.s.m.ComponentController [main] Valid employee count from arrayList: 9943
+2020-09-04 13:38:34,967 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 13:39:13,246 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 13:39:13,251 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 13:39:13,770 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 13:39:13,849 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 78.1165 milliseconds
+2020-09-04 13:39:13,849 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 13:39:13,849 INFO c.s.m.ComponentController [main] Performing migration process using 6 threads
+2020-09-04 13:39:23,996 INFO c.s.m.ComponentController [main] Migrated 9943 records from Java to SQL in: 10144.413 milliseconds
+2020-09-04 13:39:23,997 INFO c.s.m.ComponentController [main] Number of invalid records are: 57
+2020-09-04 13:39:24,006 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 57 records which were unable to be migrated
+2020-09-04 13:39:24,006 INFO c.s.m.ComponentController [main] Valid employee count from increment: 9943
+2020-09-04 13:39:24,006 INFO c.s.m.ComponentController [main] Valid employee count from arrayList: 9943
+2020-09-04 13:39:24,007 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 13:39:43,970 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 13:39:43,979 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 13:39:44,518 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 13:39:44,567 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 47.8233 milliseconds
+2020-09-04 13:39:44,567 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 13:39:44,568 INFO c.s.m.ComponentController [main] Performing migration process using 8 threads
+2020-09-04 13:39:45,863 INFO c.s.m.ComponentController [main] Migrated 0 records from Java to SQL in: 1289.6473 milliseconds
+2020-09-04 13:39:45,863 INFO c.s.m.ComponentController [main] Number of invalid records are: 10000
+2020-09-04 13:39:45,911 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 10000 records which were unable to be migrated
+2020-09-04 13:39:45,912 INFO c.s.m.ComponentController [main] Valid employee count from increment: 0
+2020-09-04 13:39:45,912 INFO c.s.m.ComponentController [main] Valid employee count from arrayList: 0
+2020-09-04 13:39:45,912 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 13:40:01,912 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 13:40:01,916 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 13:40:02,569 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 13:40:02,621 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 49.9419 milliseconds
+2020-09-04 13:40:02,621 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 13:40:02,621 INFO c.s.m.ComponentController [main] Performing migration process using 8 threads
+2020-09-04 13:40:10,120 INFO c.s.m.ComponentController [main] Migrated 9943 records from Java to SQL in: 7496.6578 milliseconds
+2020-09-04 13:40:10,120 INFO c.s.m.ComponentController [main] Number of invalid records are: 57
+2020-09-04 13:40:10,127 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 57 records which were unable to be migrated
+2020-09-04 13:40:10,127 INFO c.s.m.ComponentController [main] Valid employee count from increment: 9943
+2020-09-04 13:40:10,127 INFO c.s.m.ComponentController [main] Valid employee count from arrayList: 9943
+2020-09-04 13:40:10,128 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 13:40:24,529 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 13:40:24,534 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 13:40:25,086 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 13:40:25,140 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 52.0981 milliseconds
+2020-09-04 13:40:25,140 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 13:40:25,140 INFO c.s.m.ComponentController [main] Performing migration process using 10 threads
+2020-09-04 13:40:26,492 INFO c.s.m.ComponentController [main] Migrated 0 records from Java to SQL in: 1349.5804 milliseconds
+2020-09-04 13:40:26,493 INFO c.s.m.ComponentController [main] Number of invalid records are: 10000
+2020-09-04 13:40:26,544 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 10000 records which were unable to be migrated
+2020-09-04 13:40:26,545 INFO c.s.m.ComponentController [main] Valid employee count from increment: 0
+2020-09-04 13:40:26,545 INFO c.s.m.ComponentController [main] Valid employee count from arrayList: 0
+2020-09-04 13:40:26,545 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 13:40:36,568 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 13:40:36,574 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 13:40:37,225 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 13:40:37,315 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 86.3298 milliseconds
+2020-09-04 13:40:37,315 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 13:40:37,316 INFO c.s.m.ComponentController [main] Performing migration process using 10 threads
+2020-09-04 13:40:44,246 INFO c.s.m.ComponentController [main] Migrated 9943 records from Java to SQL in: 6922.2019 milliseconds
+2020-09-04 13:40:44,247 INFO c.s.m.ComponentController [main] Number of invalid records are: 57
+2020-09-04 13:40:44,268 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 57 records which were unable to be migrated
+2020-09-04 13:40:44,268 INFO c.s.m.ComponentController [main] Valid employee count from increment: 9943
+2020-09-04 13:40:44,269 INFO c.s.m.ComponentController [main] Valid employee count from arrayList: 9943
+2020-09-04 13:40:44,269 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 13:47:05,066 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 13:47:05,076 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 13:51:55,230 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 13:51:55,235 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 13:54:58,245 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 13:54:58,252 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 13:54:58,859 FATAL c.s.m.E.EmployeeDAOImpl [main] Could not connect to //localhost:3306/SpartaDatabasee with username: root and password: Sparta123
+2020-09-04 13:54:58,859 INFO c.s.m.E.EmployeeDAOImpl [main] Migration failed
+2020-09-04 13:54:58,860 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabasee has been successful with username: root and password: Sparta123
+2020-09-04 13:54:58,919 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 58.0208 milliseconds
+2020-09-04 13:54:58,919 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 13:54:58,919 INFO c.s.m.ComponentController [main] Performing migration process using 10 threads
+2020-09-04 13:54:58,948 FATAL c.s.m.E.EmployeeDAOImpl [main] Could not connect to //localhost:3306/SpartaDatabasee with username: root and password: Sparta123
+2020-09-04 13:54:58,948 INFO c.s.m.E.EmployeeDAOImpl [main] Migration failed
+2020-09-04 13:54:58,972 FATAL c.s.m.E.EmployeeDAOImpl [main] Could not connect to //localhost:3306/SpartaDatabasee with username: root and password: Sparta123
+2020-09-04 13:54:58,972 INFO c.s.m.E.EmployeeDAOImpl [main] Migration failed
+2020-09-04 13:54:59,007 FATAL c.s.m.E.EmployeeDAOImpl [main] Could not connect to //localhost:3306/SpartaDatabasee with username: root and password: Sparta123
+2020-09-04 13:54:59,008 INFO c.s.m.E.EmployeeDAOImpl [main] Migration failed
+2020-09-04 13:54:59,033 FATAL c.s.m.E.EmployeeDAOImpl [main] Could not connect to //localhost:3306/SpartaDatabasee with username: root and password: Sparta123
+2020-09-04 13:54:59,033 INFO c.s.m.E.EmployeeDAOImpl [main] Migration failed
+2020-09-04 13:54:59,060 FATAL c.s.m.E.EmployeeDAOImpl [main] Could not connect to //localhost:3306/SpartaDatabasee with username: root and password: Sparta123
+2020-09-04 13:54:59,060 INFO c.s.m.E.EmployeeDAOImpl [main] Migration failed
+2020-09-04 13:54:59,089 FATAL c.s.m.E.EmployeeDAOImpl [main] Could not connect to //localhost:3306/SpartaDatabasee with username: root and password: Sparta123
+2020-09-04 13:54:59,089 INFO c.s.m.E.EmployeeDAOImpl [main] Migration failed
+2020-09-04 13:54:59,113 FATAL c.s.m.E.EmployeeDAOImpl [main] Could not connect to //localhost:3306/SpartaDatabasee with username: root and password: Sparta123
+2020-09-04 13:54:59,113 INFO c.s.m.E.EmployeeDAOImpl [main] Migration failed
+2020-09-04 13:54:59,297 FATAL c.s.m.E.EmployeeDAOImpl [main] Could not connect to //localhost:3306/SpartaDatabasee with username: root and password: Sparta123
+2020-09-04 13:54:59,297 INFO c.s.m.E.EmployeeDAOImpl [main] Migration failed
+2020-09-04 13:54:59,344 FATAL c.s.m.E.EmployeeDAOImpl [main] Could not connect to //localhost:3306/SpartaDatabasee with username: root and password: Sparta123
+2020-09-04 13:54:59,344 INFO c.s.m.E.EmployeeDAOImpl [main] Migration failed
+2020-09-04 13:54:59,373 FATAL c.s.m.E.EmployeeDAOImpl [main] Could not connect to //localhost:3306/SpartaDatabasee with username: root and password: Sparta123
+2020-09-04 13:54:59,373 INFO c.s.m.E.EmployeeDAOImpl [main] Migration failed
+2020-09-04 13:55:00,026 INFO c.s.m.ComponentController [main] Migrated 0 records from Java to SQL in: 1101.1432 milliseconds
+2020-09-04 13:55:00,026 INFO c.s.m.ComponentController [main] Number of invalid records are: 10000
+2020-09-04 13:55:00,066 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 10000 records which were unable to be migrated
+2020-09-04 13:55:00,067 INFO c.s.m.ComponentController [main] Valid employee count from increment: 0
+2020-09-04 13:55:00,067 INFO c.s.m.ComponentController [main] Valid employee count from arrayList: 0
+2020-09-04 13:55:00,157 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 14:34:09,445 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 14:34:09,471 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 14:34:10,090 FATAL c.s.m.ComponentController [main] Could not connect to //localhost:3306/SpartaDatabasee with username: root and password: Sparta123
+2020-09-04 14:34:10,091 INFO c.s.m.ComponentController [main] Migration failed
+2020-09-04 15:12:31,699 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 15:12:31,705 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 15:12:32,282 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 15:12:32,357 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 74.0789 milliseconds
+2020-09-04 15:12:32,358 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 15:12:32,358 INFO c.s.m.ComponentController [main] Performing migration process using 10 threads
+2020-09-04 15:12:39,026 INFO c.s.m.ComponentController [main] Migrated 9943 records from Java to SQL in: 6666.3525 milliseconds
+2020-09-04 15:12:39,026 INFO c.s.m.ComponentController [main] Number of invalid records are: 57
+2020-09-04 15:12:39,032 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 57 records which were unable to be migrated
+2020-09-04 15:12:39,032 INFO c.s.m.ComponentController [main] Valid employee count from increment: 9943
+2020-09-04 15:12:39,033 INFO c.s.m.ComponentController [main] Valid employee count from arrayList: 9943
+2020-09-04 15:12:39,033 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 15:27:11,583 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 15:27:11,601 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/MainEmployees.csv
+2020-09-04 15:27:12,209 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 15:27:12,218 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 8.4251 milliseconds
+2020-09-04 15:27:12,218 INFO c.s.m.ComponentController [main] Attempting to migrate 19 records to the SQL database
+2020-09-04 15:27:12,218 INFO c.s.m.ComponentController [main] Performing migration process using 10 threads
+2020-09-04 15:27:12,742 INFO c.s.m.ComponentController [main] Migrated 18 records from Java to SQL in: 521.9561 milliseconds
+2020-09-04 15:27:12,742 INFO c.s.m.ComponentController [main] Number of invalid records are: 1
+2020-09-04 15:27:12,753 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 1 records which were unable to be migrated
+2020-09-04 15:27:12,753 INFO c.s.m.ComponentController [main] Valid employee count from increment: 18
+2020-09-04 15:27:12,753 INFO c.s.m.ComponentController [main] Valid employee count from arrayList: 18
+2020-09-04 15:27:12,756 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 15:30:37,331 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 15:30:37,338 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/MainEmployees.csv
+2020-09-04 15:30:38,088 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 15:30:38,092 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 2.1534 milliseconds
+2020-09-04 15:30:38,092 INFO c.s.m.ComponentController [main] Attempting to migrate 19 records to the SQL database
+2020-09-04 15:30:38,092 INFO c.s.m.ComponentController [main] Performing migration process using 10 threads
+2020-09-04 15:30:38,462 INFO c.s.m.ComponentController [main] Migrated 19 records from Java to SQL in: 358.2803 milliseconds
+2020-09-04 15:30:38,462 INFO c.s.m.ComponentController [main] Number of invalid records are: 0
+2020-09-04 15:30:38,463 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 0 records which were unable to be migrated
+2020-09-04 15:30:38,463 INFO c.s.m.ComponentController [main] Valid employee count from increment: 19
+2020-09-04 15:30:38,463 INFO c.s.m.ComponentController [main] Valid employee count from arrayList: 19
+2020-09-04 15:30:38,464 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 15:31:44,827 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 15:31:44,835 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/MainEmployees.csv
+2020-09-04 15:31:45,487 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 15:31:45,501 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 12.2648 milliseconds
+2020-09-04 15:31:45,501 INFO c.s.m.ComponentController [main] Attempting to migrate 19 records to the SQL database
+2020-09-04 15:31:45,501 INFO c.s.m.ComponentController [main] Performing migration process using 10 threads
+2020-09-04 15:31:46,182 INFO c.s.m.ComponentController [main] Migrated 18 records from Java to SQL in: 677.7316 milliseconds
+2020-09-04 15:31:46,182 INFO c.s.m.ComponentController [main] Number of invalid records are: 1
+2020-09-04 15:31:46,193 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 1 records which were unable to be migrated
+2020-09-04 15:31:46,193 INFO c.s.m.ComponentController [main] Valid employee count from increment: 18
+2020-09-04 15:31:46,194 INFO c.s.m.ComponentController [main] Valid employee count from arrayList: 18
+2020-09-04 15:31:46,208 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 16:38:03,283 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 16:38:03,287 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/MainEmployees.csv
+2020-09-04 16:38:03,838 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 16:38:03,843 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 4.1316 milliseconds
+2020-09-04 16:38:03,844 INFO c.s.m.ComponentController [main] Attempting to migrate 19 records to the SQL database
+2020-09-04 16:38:03,844 INFO c.s.m.ComponentController [main] Performing migration process using 10 threads
+2020-09-04 16:38:04,179 INFO c.s.m.ComponentController [main] Migrated 0 records from Java to SQL in: 329.5884 milliseconds
+2020-09-04 16:38:04,179 INFO c.s.m.ComponentController [main] Number of invalid records are: 19
+2020-09-04 16:38:04,192 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 19 records which were unable to be migrated
+2020-09-04 16:38:04,192 INFO c.s.m.ComponentController [main] Valid employee count from increment: 0
+2020-09-04 16:38:04,192 INFO c.s.m.ComponentController [main] Valid employee count from arrayList: 0
+2020-09-04 16:38:04,193 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 16:38:51,851 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 16:38:51,857 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/MainEmployees.csv
+2020-09-04 16:38:52,463 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 16:38:52,475 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 10.9969 milliseconds
+2020-09-04 16:38:52,476 INFO c.s.m.ComponentController [main] Attempting to migrate 19 records to the SQL database
+2020-09-04 16:38:52,476 INFO c.s.m.ComponentController [main] Performing migration process using 10 threads
+2020-09-04 16:38:52,785 INFO c.s.m.ComponentController [main] Migrated 0 records from Java to SQL in: 307.5981 milliseconds
+2020-09-04 16:38:52,786 INFO c.s.m.ComponentController [main] Number of invalid records are: 19
+2020-09-04 16:38:52,796 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 19 records which were unable to be migrated
+2020-09-04 16:38:52,797 INFO c.s.m.ComponentController [main] Valid employee count from increment: 0
+2020-09-04 16:38:52,797 INFO c.s.m.ComponentController [main] Valid employee count from arrayList: 0
+2020-09-04 16:38:52,797 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 16:50:42,306 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 16:50:42,315 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/MainEmployees.csv
+2020-09-04 16:50:43,108 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 16:50:43,115 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 5.3052 milliseconds
+2020-09-04 16:50:43,115 INFO c.s.m.ComponentController [main] Attempting to migrate 0 records to the SQL database
+2020-09-04 16:50:43,115 INFO c.s.m.ComponentController [main] Performing migration process using 1 thread
+2020-09-04 16:50:43,161 INFO c.s.m.ComponentController [main] Migrated 0 records from Java to SQL in: 43.2457 milliseconds
+2020-09-04 16:50:43,161 INFO c.s.m.ComponentController [main] Number of invalid records are: 19
+2020-09-04 16:50:43,180 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 19 records which were unable to be migrated
+2020-09-04 16:50:43,181 INFO c.s.m.ComponentController [main] Valid employee count from increment: 0
+2020-09-04 16:50:43,181 INFO c.s.m.ComponentController [main] Valid employee count from arrayList: 0
+2020-09-04 16:50:43,181 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 16:51:41,196 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 16:51:41,205 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 16:51:41,722 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 16:51:41,922 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 198.2676 milliseconds
+2020-09-04 16:51:41,930 INFO c.s.m.ComponentController [main] Attempting to migrate 0 records to the SQL database
+2020-09-04 16:51:41,931 INFO c.s.m.ComponentController [main] Performing migration process using 1 thread
+2020-09-04 16:51:42,019 INFO c.s.m.ComponentController [main] Migrated 0 records from Java to SQL in: 85.9068 milliseconds
+2020-09-04 16:51:42,019 INFO c.s.m.ComponentController [main] Number of invalid records are: 10000
+2020-09-04 16:51:42,067 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 10000 records which were unable to be migrated
+2020-09-04 16:51:42,068 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 16:52:58,093 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 16:52:58,098 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 16:52:58,690 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 16:52:58,901 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 206.9536 milliseconds
+2020-09-04 16:52:58,901 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 16:52:58,902 INFO c.s.m.ComponentController [main] Performing migration process using 10 threads
+2020-09-04 16:53:05,573 INFO c.s.m.ComponentController [main] Migrated 9943 records from Java to SQL in: 6668.5794 milliseconds
+2020-09-04 16:53:05,574 INFO c.s.m.ComponentController [main] Number of invalid records are: 57
+2020-09-04 16:53:05,584 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 57 records which were unable to be migrated
+2020-09-04 16:53:05,585 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 16:58:34,736 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 16:58:34,740 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/MainEmployees.csv
+2020-09-04 16:58:35,374 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 16:58:35,380 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 4.6591 milliseconds
+2020-09-04 16:58:35,380 INFO c.s.m.ComponentController [main] Attempting to migrate 18 records to the SQL database
+2020-09-04 16:58:35,380 INFO c.s.m.ComponentController [main] Performing migration process using 10 threads
+2020-09-04 16:58:35,718 INFO c.s.m.ComponentController [main] Migrated 18 records from Java to SQL in: 335.2282 milliseconds
+2020-09-04 16:58:35,718 INFO c.s.m.ComponentController [main] Number of invalid records are: 1
+2020-09-04 16:58:35,726 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 1 records which were unable to be migrated
+2020-09-04 16:58:35,727 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 17:03:38,866 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 17:03:38,884 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 17:03:39,742 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 17:03:40,084 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 339.0886 milliseconds
+2020-09-04 17:03:40,084 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 17:03:40,084 INFO c.s.m.ComponentController [main] Performing migration process using 1 threads
+2020-09-04 17:04:12,375 INFO c.s.m.ComponentController [main] Migrated 9943 records from Java to SQL in: 32287.468 milliseconds
+2020-09-04 17:04:12,375 INFO c.s.m.ComponentController [main] Number of invalid records are: 57
+2020-09-04 17:04:12,388 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 57 records which were unable to be migrated
+2020-09-04 17:04:12,406 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 17:04:41,574 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 17:04:41,578 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 17:04:42,269 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 17:04:42,533 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 260.5325 milliseconds
+2020-09-04 17:04:42,534 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 17:04:42,541 INFO c.s.m.ComponentController [main] Performing migration process using 10 threads
+2020-09-04 17:04:50,949 INFO c.s.m.ComponentController [main] Migrated 9943 records from Java to SQL in: 8407.0905 milliseconds
+2020-09-04 17:04:50,949 INFO c.s.m.ComponentController [main] Number of invalid records are: 57
+2020-09-04 17:04:50,959 INFO c.s.m.ComponentController [main] FileWriter object successfully wrotepain 57 records which were unable to be migrated
+2020-09-04 17:04:50,960 INFO c.s.m.ComponentController [main] Migration complete
+2020-09-04 17:58:39,429 INFO c.s.m.ComponentController [main] Successfully read from properties files
+2020-09-04 17:58:39,436 INFO c.s.m.ComponentController [main] Reader object has been set up to the file path: src/main/resources/Employees.csv
+2020-09-04 17:58:39,969 INFO c.s.m.ComponentController [main] Connection to //localhost:3306/SpartaDatabase has been successful with username: root and password: Sparta123
+2020-09-04 17:58:40,201 INFO c.s.m.ComponentController [main] Migrated from CSV to Java in: 230.3591 milliseconds
+2020-09-04 17:58:40,201 INFO c.s.m.ComponentController [main] Attempting to migrate 10000 records to the SQL database
+2020-09-04 17:58:40,201 INFO c.s.m.ComponentController [main] Performing migration process using 10 threads
+2020-09-04 17:58:48,102 INFO c.s.m.ComponentController [main] Migrated 9943 records from Java to SQL in: 7898.5317 milliseconds
+2020-09-04 17:58:48,103 INFO c.s.m.ComponentController [main] Number of invalid records are: 57
+2020-09-04 17:58:48,110 INFO c.s.m.ComponentController [main] FileWriter object successfully wrote 57 records which were unable to be migrated
+2020-09-04 17:58:48,111 INFO c.s.m.ComponentController [main] Migration complete

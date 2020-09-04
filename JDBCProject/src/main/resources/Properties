@@ -1,0 +1,4 @@
+csvFilePath=src/main/resources/Employees.csv
+databaseAddress=//localhost:3306/SpartaDatabase
+username=root
+password=Sparta123
