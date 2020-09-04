@@ -30,7 +30,7 @@ Your .csv file should have the following columns in that order:
 ```
 Emp ID,Name Prefix,First Name,Middle Initial,Last Name,Gender,E Mail,Date of Birth,Date of Joining,Salary
 ```
-With the properties file configured, running the main() application will start the 
+With the properties file configured, running the main() application using the App class, will start the 
 migration process. The logs.log file will give detailed report on the process, including
 success or fail of the migration.
 
@@ -48,14 +48,14 @@ restrictions listed by the destination database:
 1. Gender - Must be strictly either "M" or "F"
 1. Email - Email must be of form xxx.xxx@xxxx.xxx
 1. Date Of Birth - Must be of form "xx/xx/xxxx"
-1. Date Of Joining - Must be of form "xx/xx/xxxx"
+1. Date Of Joining - Must be of form "xx/xx/xxxx" and must be after the Date Of Birth
 1. Salary - Must be a positive integer which is less than or equal to 2,147,483,647
 
 
 Whenever the criteria is not met, or the database imposes additional restrictions on the
 data, the software attempts to write these records to a file called "InvalidEmployees.csv".
 The records are written with a message giving a reason as to why the migration process
- could not occur with that particular record(in .csv format).
+ could not occur with that particular record (in .csv format).
 
 **Testing**
 ---
